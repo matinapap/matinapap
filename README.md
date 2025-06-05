@@ -8,35 +8,23 @@ I'm **Matina**, a tech enthusiast passionate about programming and software deve
 
 I specialize in both backend and frontend development, working with a wide range of technologies.
 
-### 🔹 Programming Languages:
-- Python 🐍
-- C#
-- SQL
-- Java
-- C / C++
-- JavaScript
-- PHP
-- Ruby
-
-### 🔹 Front-End Development:
-- HTML
-- CSS
-- XAML
-
 I'm always open to collaboration and learning opportunities — feel free to explore my repositories and connect with me!
+
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matinapap&show_icons=true&theme=tokyonight)
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matinapap&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Get in Touch
 
-📧 matinapapadakou18@gmail.com
-
----
-
-## 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/matina-papadakou-293419270/)
-
+📧 matinapapadakou18@gmail.com
 ---
 
 ## 🛠️ Tools & Technologies I Use
