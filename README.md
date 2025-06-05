@@ -13,7 +13,7 @@ I'm always open to collaboration and learning opportunities — feel free to exp
 ---
 ## 📊 GitHub Stats
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=matinapap&theme=dracula)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=matinapap&theme=radical)
 
 ## 🔥 Most Used Languages
 
