@@ -13,7 +13,7 @@ I'm always open to collaboration and learning opportunities — feel free to exp
 ---
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matinapap&layout=compact&theme=tokyonight)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=matinapap&theme=dracula)
 
 ## 🔥 Most Used Languages
 
