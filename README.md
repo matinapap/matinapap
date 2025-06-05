@@ -20,6 +20,7 @@ I'm always open to collaboration and learning opportunities — feel free to exp
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/matina-papadakou-293419270/)
+
 📧 matinapapadakou18@gmail.com
 ---
 
