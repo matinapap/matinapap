@@ -15,10 +15,6 @@ I'm always open to collaboration and learning opportunities — feel free to exp
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=matinapap&theme=radical)
 
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matinapap&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 Get in Touch
