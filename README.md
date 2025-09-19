@@ -13,9 +13,7 @@ I'm always open to collaboration and learning opportunities — feel free to exp
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matinapap&theme=radical" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=matinapap&theme=radical)
 
 ---
 
