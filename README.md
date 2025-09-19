@@ -13,7 +13,9 @@ I'm always open to collaboration and learning opportunities — feel free to exp
 ---
 ## 📊 GitHub Stats
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=matinapap&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=matinapap&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
